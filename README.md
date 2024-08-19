@@ -1,3 +1,3 @@
 # estudio-juridico-website
-Mc Innes &amp; Gualdi - estudio juridico, pagina web
+Mc Innes &amp; Gualdi - estudio juridico.
 Pagina web creada con HTML, CSS Y JS.
